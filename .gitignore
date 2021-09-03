@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 copy_figs
+.DS_Store
